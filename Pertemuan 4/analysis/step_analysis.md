@@ -1,4 +1,4 @@
-## 🛠️ Langkah-Langkah Dasar Memulai Analisis
+##  Langkah-Langkah Dasar Memulai Analisis
 
 Kalau kamu baru memulai analisis, berikut adalah langkah-langkah dasarnya:
 
@@ -46,6 +46,6 @@ Analisis bukan proses satu kali. Evaluasi hasil dari tindakan yang diambil:
 
 ---
 
-💡 **Tips Singkat:**
+ **Tips Singkat:**
 - Gunakan Excel, Google Sheets, atau tools analisis lainnya seperti Power BI, Python (pandas), atau SPSS jika dibutuhkan.
 - Jangan takut memulai dari yang sederhana!
