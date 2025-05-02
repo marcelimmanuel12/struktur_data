@@ -6,21 +6,21 @@ Array merupakan salah satu struktur data **paling populer dan sederhana** yang d
 
 ---
 
-## 📘 Terminologi Dasar Array
+## Terminologi Dasar Array
 
-### 🔢 Indeks Array
+### Indeks Array
 Dalam array, elemen diidentifikasi oleh **indeks**-nya.  
 Indeks array **dimulai dari 0**.
 
-### 📦 Elemen Array
+### Elemen Array
 **Elemen** adalah item yang disimpan dalam array dan dapat diakses menggunakan indeksnya.
 
-### 📏 Panjang Array
+### Panjang Array
 **Panjang array** ditentukan oleh jumlah elemen yang dapat ditampung oleh array tersebut.
 
 ---
 
-## 💾 Representasi Memori Array
+## Representasi Memori Array
 
 Dalam array, semua elemen disimpan di **lokasi memori yang berdekatan**.  
 Jadi, jika kita menginisialisasi array, elemen akan dialokasikan **secara berurutan dalam memori**.
@@ -31,7 +31,7 @@ Hal ini memungkinkan:
 
 ---
 
-💡 **Contoh dalam Bahasa Pemrograman (misalnya Python):**
+ **Contoh dalam Bahasa Pemrograman (misalnya Python):**
 
 ```python
 # Inisialisasi array
@@ -48,9 +48,9 @@ Jika kamu butuh tambahan tentang **jenis-jenis array (1D, 2D, multidimensional)*
 
 ---
 
-## 🧱 Jenis-Jenis Array
+##  Jenis-Jenis Array
 
-### 1️⃣ Array 1 Dimensi (1D Array)
+### 1 Array 1 Dimensi (1D Array)
 Array satu dimensi adalah bentuk paling dasar dari array, di mana elemen-elemen disusun dalam satu baris.
 
 **Contoh (Python):**
@@ -61,7 +61,7 @@ print(angka[2])  # Output: 3
 
 ---
 
-### 2️⃣ Array 2 Dimensi (2D Array)
+### 2 Array 2 Dimensi (2D Array)
 Array dua dimensi disusun seperti matriks atau tabel, yaitu dalam baris dan kolom.
 
 **Contoh (Python):**
@@ -76,7 +76,7 @@ print(matrix[1][2])  # Output: 6
 
 ---
 
-### 3️⃣ Array Multidimensi
+### 3 Array Multidimensi
 Array ini memiliki lebih dari dua dimensi. Digunakan untuk merepresentasikan data kompleks seperti tensor, citra 3D, dsb.
 
 **Contoh (Python - 3D):**
@@ -96,7 +96,7 @@ print(tensor[1][0][1])  # Output: 6
 
 ---
 
-## 🔄 Perbandingan Array dengan Struktur Data Lain
+## Perbandingan Array dengan Struktur Data Lain
 
 | **Struktur Data** | **Deskripsi Singkat**                                       | **Kelebihan**                                      | **Kekurangan**                                      |
 |-------------------|--------------------------------------------------------------|----------------------------------------------------|-----------------------------------------------------|
